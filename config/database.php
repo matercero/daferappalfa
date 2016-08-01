@@ -5,8 +5,8 @@ class DATABASE_CONFIG {
 		'driver' => 'mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'root',
-		'password' => 'd4f3r',
+		'login' => '',
+		'password' => '',
 		'database' => 'dafer2',
 		'encoding' => 'utf8'
 	);
